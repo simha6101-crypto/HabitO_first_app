@@ -1,0 +1,6 @@
+{
+  "name": "ProofHabit - Photo Proof Habit Tracker",
+  "description": "Visual proof habit tracker where every habit requires a photo to build your consistency gallery, featuring pastel Disney and Marvel themes, streaks, challenges, and monthly recaps.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
